@@ -1,0 +1,1 @@
+console.log("Welcome to Smart Infinity Gama Electrical Services!");

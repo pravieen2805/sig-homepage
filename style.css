@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #111;
+  color: #f0f0f0;
+}
+.hero {
+  background: linear-gradient(to right, #ff9d00, #ffd000);
+  padding: 80px 20px;
+  text-align: center;
+  color: #111;
+}
+.cta-button {
+  background: #111;
+  color: #fff;
+  padding: 10px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+}
+.section {
+  padding: 40px 20px;
+}
+footer {
+  background: #222;
+  padding: 20px;
+  text-align: center;
+}
